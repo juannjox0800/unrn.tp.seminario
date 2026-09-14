@@ -8,7 +8,7 @@ public class UsuarioDTO {
 	private String rol;
 	private boolean activo;
 	private String estado;
-
+	private String chequeamela;
 	public UsuarioDTO(String username, String password, String nombre, String email, String rol, boolean activo,
 			String estado) {
 		super();
